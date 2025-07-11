@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmN8gQ25U0L700F9Jg/giphy.gif" alt="Hi there!" width="150"/>
-</p>
-
 ### Hey there! 👋 I'm Arseni Popov
 
 I'm a **Quantitative Researcher** with a keen eye for uncovering market insights through data. My passion lies at the intersection of finance, programming, and robust statistical analysis.
@@ -64,5 +60,4 @@ Take a look at my recent activity, contributions, and achievements on GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xyxl1kalgo&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Arseni's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyxl1kalgo&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-streak-stats.herokuapp.com?user=Xyxl1kalgo&theme=dark&hide_border=true&date_format=%5BY%5D" alt="GitHub Streak" />
 </p>
