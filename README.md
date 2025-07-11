@@ -1,17 +1,15 @@
-### Whats up! 👋 I am Arseni Popov
+### Hello Everyone! 👋 I'm Arseni Popov
 
-I am studing in BMSTU and tried to be a good Quantitative Researcher.
+I'm a **Quantitative Researcher** passionate about financial markets and data-driven insights.
+
 ---
 
 ### About Me:
 
-🔭 I'm currently focused on quantitative research and developing systematic strategies.
-
-🌱 I'm actively deepening my knowledge in Python for financial analysis and algorithmic trading.
-
-👯 I'm seeking collaborations to establish my own investment fund. Let's connect if you share a similar vision!
-
-💬 Feel free to ask me about quantitative finance, Python programming, or investment strategies.
+-   🔭 I'm currently focused on **quantitative research** and developing systematic strategies.
+-   🌱 I'm actively deepening my knowledge in **Python** for financial analysis and algorithmic trading.
+-   👯 I'm seeking collaborations to **establish my own investment fund**. Let's connect if you share a similar vision!
+-   💬 Feel free to ask me about **quantitative finance, Python programming, or investment strategies**.
 
 ---
 
@@ -35,10 +33,12 @@ I'm always open to discussing new ideas, collaborations, or just a friendly chat
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Stats & Contributions
 
-Here's a glimpse into my recent GitHub activity and top languages:
+Take a look at my recent activity, contributions, and achievements on GitHub:
 
-[![Arseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xyxl1kalgo&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xyxl1kalgo&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-streak-stats.herokuapp.com?user=Xyxl1kalgo&theme=dark&hide_border=true&date_format=%5BY%5D)](https://git.io/streak-stats)
