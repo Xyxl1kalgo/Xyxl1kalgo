@@ -50,14 +50,3 @@ I'm always eager to exchange ideas, explore potential collaborations, or simply 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arseni-popov-44a171354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xyxl21k?igsh=cmp4eGtieDFlNjR5&utm_source=qr)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/obscurity21)
-
----
-
-### 📈 My GitHub Stats & Contributions
-
-Take a look at my recent activity, contributions, and achievements on GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xyxl1kalgo&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Arseni's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyxl1kalgo&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</p>
